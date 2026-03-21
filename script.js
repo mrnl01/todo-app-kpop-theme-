@@ -5,7 +5,7 @@ const biasThemes = {
         accent: "linear-gradient(120deg, #9B59B6, #D2B4DE)",
         text: "#F8F9F9",
         container: "linear-gradient(145deg, rgba(155,89,182,0.4), rgba(210,180,222,0.3))",
-        gif: "gifs/jungkook.gif",
+        gif: "gif/jungkook.gif",
         image: "images/bts.jpg"
     },
     "Stray Kids": {
@@ -13,7 +13,7 @@ const biasThemes = {
         accent: "linear-gradient(120deg, #ff2f00, #6c0707)",
         text: "#FFFFFF",
         container: "linear-gradient(145deg, rgba(249, 85, 67, 0.4), rgba(212, 132, 132, 0.3))",
-        gif: "gifs/hyunjin.gif",
+        gif: "gif/hyunjin.gif",
         image: "images/skz.jpg"
     },
     "Enhypen": {
@@ -21,7 +21,7 @@ const biasThemes = {
         accent: "linear-gradient(120deg, #33CCFF, #99E6FF)",
         text: "#FFFFFF",
         container: "linear-gradient(145deg, rgba(249, 155, 170, 0.3), rgba(153,230,255,0.2))",
-        gif: "gifs/sunghoon.gif",
+        gif: "gif/sunghoon.gif",
         image: "images/enhypen.jpg"
     },
     "TXT": {
@@ -29,7 +29,7 @@ const biasThemes = {
         accent: "linear-gradient(120deg, #76f8ff, #FFE57F)",
         text: "#000000",
         container: "linear-gradient(145deg, rgba(241, 244, 203, 0.3), rgba(248, 244, 230, 0.25))",
-        gif: "gifs/taehyun.gif",
+        gif: "gif/taehyun.gif",
         image: "images/txt.jpg"
     }
 };
