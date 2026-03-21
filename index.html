@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>💜 K-pop Bias To-Do List</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>💜 Your To-Do List (feat. KPOP) 💜</h1>
+
+        <!-- Bias selection dropdown -->
+        <label for="bias" id="default">Choose your bias:</label>
+        <select id="bias" onchange="changeBias()">
+            <option value="">--Select--</option>
+            <option value="BTS" data-theme="BTS">BTS</option>
+            <option value="Stray Kids" data-theme="Stray Kids">Stray Kids</option>
+            <option value="Enhypen" data-theme="Enhypen">Enhypen</option>
+            <option value="TXT" data-theme="TXT">TXT</option>
+        </select>
+
+        <!-- To-do list -->
+        <ul id="todo-list">
+            <!-- JS will dynamically add tasks here with emojis -->
+        </ul>
+
+        <!-- Add task input -->
+        <input type="text" id="task-input" placeholder="Add a new task...">
+        <button onclick="addTask()">Add Task</button>
+    </div>
+
+    <!-- Audio player for bias clips -->
+    <audio id="audio"></audio>
+
+    <!-- JS -->
+    <script src="script.js"></script>
+</body>
+</html>
