@@ -26,12 +26,14 @@
         </ul>
 
         <!-- Add task input -->
-        <input type="text" id="task-input" placeholder="Add a new task...">
-        <button onclick="addTask()">Add Task</button>
+        <input 
+    type="text" 
+    id="task-input" 
+    placeholder="Add a new task..." 
+    onkeypress="if(event.key==='Enter') addTask()"
+>
+<button onclick="addTask()">Add Task</button>
     </div>
-
-    <!-- Audio player for bias clips -->
-    <audio id="audio"></audio>
 
     <!-- JS -->
     <script src="script.js"></script>
