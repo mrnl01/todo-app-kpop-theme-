@@ -9,8 +9,8 @@ const biasThemes = {
         image: "images/bts.jpg"
     },
     "Stray Kids": {
-        bg: "#FF0000", // bold red
-        accent: "linear-gradient(120deg, #FF6666, #FFB3B3)", // pinkish-red gradient
+        bg: "#3a07f3", // bold red
+        accent: "linear-gradient(120deg, #717af8, #6fa7ec)", // pinkish-red gradient
         text: "#FFFFFF", // white for contrast
         container: "linear-gradient(145deg, rgba(255,102,102,0.4), rgba(255,179,179,0.3))", // soft red frosted
         gif: "gif/hyunjin.gif",
