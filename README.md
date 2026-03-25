@@ -3,8 +3,6 @@
 An aesthetic and interactive **To-Do List Web App** inspired by K-pop vibes ✨
 Choose your favorite group, manage tasks, and enjoy a fun, animated experience!
 
----
-
 ## 🎯 Features
 
 ✨ Choose your favorite K-pop group:
@@ -31,19 +29,14 @@ Choose your favorite group, manage tasks, and enjoy a fun, animated experience!
 * GIF pops up when task is completed 🎬
 * Task disappears after a few seconds
 
----
-
 ## 🛠️ Tech Stack
 
 * HTML5
 * CSS3
 * JavaScript (Vanilla JS)
 
----
-
 ## 📁 Project Structure
 
-```
 project/
 │
 ├── index.html
@@ -61,15 +54,10 @@ project/
 │   ├── hyunjin.gif
 │   ├── sunghoon.gif
 │   ├── taehyun.gif
-```
-
----
 
 ## 🚀 Live Demo
 
 👉 https://your-username.github.io/your-repo-name/
-
----
 
 ## 💡 How It Works
 
@@ -79,8 +67,6 @@ project/
 4. Click task to complete
 5. Enjoy emoji + GIF animation 💥
 
----
-
 ## 💜 Future Improvements
 
 * Random background per group
@@ -88,13 +74,9 @@ project/
 * Mobile UI optimization
 * User login & cloud sync
 
----
-
 ## 🙌 Acknowledgement
 
 Inspired by K-pop aesthetics and fan culture 💫
-
----
 
 ## ⭐ Show Your Support
 
@@ -104,8 +86,7 @@ If you like this project:
 * 🍴 Fork it
 * 💜 Share with friends
 
----
 
-## 👩‍💻 Author
 
-Made with 💜 by YOU 😏🔥
+
+
